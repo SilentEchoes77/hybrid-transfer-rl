@@ -22,7 +22,7 @@ The algorithms are implemented in the folder experiment/, the output data is sto
     - BPI-UCBVI is implemented in experiment/online-right-beta.py
     
     ```bash
-    python3 ./experiments/online-right-beta.py
+    $ python3 ./experiments/online-right-beta.py
     ```
     
     - The results are stored in data/onlinereward.npy
