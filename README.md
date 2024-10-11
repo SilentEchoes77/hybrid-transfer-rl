@@ -41,4 +41,4 @@ The algorithms are implemented in the folder experiment/, the output data is sto
     ```
     
     - The results are stored in data/onlineopt-bar.npy
-    - The optimal value functions when the real $\beta$ ranges from 0.05 to 0.4 is calculated by running experiment/generate $$_source_and_v_opt.ipynb.
+    - The optimal value functions when the real $\beta$ ranges from 0.05 to 0.4 is calculated by running experiment/generate_source_and_v_opt.ipynb.
